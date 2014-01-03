@@ -15,8 +15,6 @@ home42trip
 enemy59green
 weak39thank
 
-by calling this:
-WordBasedPasswordGenerator.GeneratePassword()
 
 
 Thanks to www.filterlanguage.com and www.bartb.ie/xkpasswd
